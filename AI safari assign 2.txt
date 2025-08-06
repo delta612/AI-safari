@@ -1,0 +1,16 @@
+Why We Need to Watch the Watchers: AI in Hiring & Exams
+AI is making big decisions these days — from who gets hired to who passes an exam. But without proper checks, it can quietly make unfair calls. Let’s look at two cases.
+
+Case 1: The Biased Hiring Bot
+A company uses AI to screen job applicants, but it rejects more female candidates with career gaps. Why? The AI learned from past hiring data that rewarded continuous work — often favoring men. This means talented people are being left out simply for life events like caregiving.
+
+Case 2: The Overzealous Exam Proctor
+A school uses AI to detect cheating by tracking eye movement. But it flags neurodivergent students and those with anxiety just for looking away or moving differently. In short, it mistakes human diversity for suspicious behavior.
+
+The Risk
+Both cases show that AI can carry hidden bias, make wrong assumptions, and harm real people if left unchecked.
+
+The Fix
+Audit AI regularly, train it with fair data, and keep a human in the loop before making big decisions.
+
+Bottom line: AI isn’t bad — but like any rookie detective, it needs good training and a wise partner to keep it from accusing the wrong people.
